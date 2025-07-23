@@ -62,15 +62,25 @@ Switch between light and dark themes easily using a sidebar toggle.
 
 ---
 💡 Future Enhancements
+
 Here are some features that are already planned or partially implemented:
+
 ✅ Full user login history tracking – track login timestamps per user
+
 ✅ Downloadable reports – export AI detection or grammar check results as PDF/TXT
+
 ✅ Voice-to-voice chat assistant – full conversation via microphone + speaker
+
 ✅ Integration with Grammarly API – real-time grammar fixes with Grammarly accuracy
+
 ✅ Deployment to HuggingFace Spaces / Streamlit Cloud – live demo hosting options
 
+
+
 👩‍💻 Developed by
+
 Bhoomika Choudhari & Ashi Sharma
+
 🎓 Student Developer | 💡 AI Researcher
 
 
