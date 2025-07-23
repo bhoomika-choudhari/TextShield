@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+nltk
+plotly
+gtts
+textstat
+python-docx
+PyMuPDF
+google-generativeai
+language-tool-python
